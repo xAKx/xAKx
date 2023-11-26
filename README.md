@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @xAKx
+- 👋 Hi, I’m @xAKx or known as Akmal 
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 🌱 I’m currently learning C++ wile studying at Universiti Teknologi MARA
+- 💞️ I’m looking to collaborate on any basic C++ project
 
 <!---
 xAKx/xAKx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
