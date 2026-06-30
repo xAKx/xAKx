@@ -24,7 +24,7 @@ I am a Computer Science student at Universiti Teknologi MARA (UiTM), specializin
 
 ## 📫 Let's Connect!
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/che-akmal-danial-che-arman)
-- 🌐 **Portfolio:** [yourportfolio.com]()
+- 💼 **LinkedIn:** [www.linkedin.com/in/che-akmal-danial-che-arman]
+- 🌐 **Portfolio:** [N/a]
 
 ---
