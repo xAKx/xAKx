@@ -22,7 +22,7 @@ I'm a Computer Science student at **Universiti Teknologi MARA (UiTM)**, working 
 - **Tinkering:** custom firmware for ESP32 and M5Stack Cardputer, plus hardware security experiments
 - **Off-duty:** flying micro FPV drones and tuning Betaflight rate profiles
 
-## ⚡ Currently Working On
+## Projects
 
 | Project | What it is |
 |---|---|
