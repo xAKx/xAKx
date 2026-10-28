@@ -1,63 +1,154 @@
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akmal%20Danial&fontSize=48&fontAlignY=38&desc=Front-End%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20Hardware%20Hacker&descAlignY=58&descSize=16" width="100%" alt="header"/>
 
-<!-- Animated intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=CS+student+%40+UiTM;Designing+interfaces+that+feel+effortless;Writing+firmware+for+ESP32+%26+friends;Building+Verafy%3A+AI+vs+deepfakes" alt="typing intro"/>
-</p>
+<!--
+  AKMAL'S LITTLE CORNER OF THE INTERNET
+  stay curious. make things. have fun.
+-->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/che-akmal-danial-che-arman"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://komarev.com/ghpvc/?username=xAKx&label=Profile%20views&color=7aa2f7&style=for-the-badge" alt="views"/>
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE082,50:81D4FA,100:A5D6A7&height=190&section=header&text=oh,%20hello%20there!&fontSize=44&fontColor=263238&animation=fadeIn&fontAlignY=37&desc=you've%20found%20akmal's%20little%20corner%20of%20the%20internet&descAlignY=60&descSize=16&descColor=37474F" width="100%" alt="Welcome to Akmal's profile"/>
 
-## 👋 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=1100&color=F59E0B&center=true&vCenter=true&width=680&lines=hi!+i'm+akmal.;i+like+making+things+%26+figuring+things+out;professional+button+clicker+%26+bug+creator;sometimes+the+bugs+are+features...+probably" alt="Animated greeting"/>
 
-I'm a Computer Science student at **Universiti Teknologi MARA (UiTM)**, working at the intersection of elegant UI design and solid front-end engineering. I like crafting smooth experiences for web and mobile, then going down hardware rabbit holes in my spare time.
+<br/>
 
-- **Studying:** software architecture, systems design and intelligent computing
-- **Designing:** UI/UX prototyping and cross-platform mobile interfaces
-- **Tinkering:** custom firmware for ESP32 and M5Stack Cardputer, plus hardware security experiments
-- **Off-duty:** flying micro FPV drones and tuning Betaflight rate profiles
+<a href="https://github.com/xAKx">
+  <img src="https://img.shields.io/badge/GitHub-FFF3C4?style=for-the-badge&logo=github&logoColor=263238" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/che-akmal-danial-che-arman">
+  <img src="https://img.shields.io/badge/LinkedIn-B3E5FC?style=for-the-badge&logo=linkedin&logoColor=263238" alt="LinkedIn"/>
+</a>
 
-## Projects
+<br/><br/>
 
-| Project | What it is |
-|---|---|
-| **Verafy** | A SaaS multimodal AI authentication platform that detects deepfakes and fabricated text |
-| **Embedded projects** | Firmware, companion utilities and scripts for microcontrollers and portable hardware |
-| **FYP264** | Academic project work at UiTM ([repo](https://github.com/xAKx/FYP264)) |
+<img src="https://komarev.com/ghpvc/?username=xAKx&label=curious%20visitors&color=F9C74F&style=flat-square" alt="Visitor counter"/>
 
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,java,py,mysql,cpp,arduino,git,vscode&perline=11" alt="tech stack"/>
-</p>
-
-## 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xAKx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAKx&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=xAKx&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xAKx/xAKx/output/github-snake-dark.svg"/>
-    <img alt="snake" src="https://raw.githubusercontent.com/xAKx/xAKx/output/github-snake.svg"/>
-  </picture>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer"/>
-</p>
+## a little about me
+
+hey, i'm **Akmal**!
+
+I'm a Computer Science student at **UiTM, Malaysia**, who enjoys making things look nice, work properly, and occasionally do something they were never designed to do.
+
+I spend a lot of time around **front-end development, UI/UX, Linux, and tiny computers**. Sometimes I fly FPV drones. Sometimes I flash firmware onto a device just to see what happens.
+
+Most of the time, I'm just following a question that starts with:
+
+> "wait... can I actually do that?"
+
+---
+
+## currently exploring...
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=2600&pause=1000&color=2E9C89&center=true&vCenter=true&width=650&lines=how+things+work+under+the+hood;making+interfaces+feel+alive;tiny+devices+with+big+possibilities;new+ways+to+break+my+Linux+setup;why+one+small+fix+takes+three+hours" alt="Curiosity animation"/>
+
+</div>
+
+| The rabbit hole | Why I'm interested |
+|:--|:--|
+| **Design & interfaces** | Why does one tiny animation make an app feel so much better? |
+| **Software** | I like knowing what happens behind the button I just clicked. |
+| **Hardware** | Tiny boards doing surprisingly complicated things? Yes, please. |
+| **Linux & systems** | Because apparently one operating system isn't enough. |
+| **FPV drones** | Flying is fun. Tuning Betaflight for hours is character development. |
+
+---
+
+## things in my toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,html,css,js,java,py,cpp,mysql,git,vscode,linux,arduino&perline=6&theme=light" alt="Tech stack"/>
+
+<br/>
+
+<sub>some tools I use, some tools I'm learning, and some tools I've definitely broken.</sub>
+
+</div>
+
+---
+
+## meet the unofficial supervisor
+
+<div align="center">
+
+<pre>
+       /\_/\
+      ( o.o )
+       > ^ <
+
+   chief bug inspector
+  (has found zero bugs)
+   (has caused several)
+</pre>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=2400&pause=1100&color=E8A33D&center=true&vCenter=true&width=650&lines=cat.exe+is+watching...;cat.exe+is+judging+your+code...;cat.exe+has+fallen+asleep.;productivity+increased+by+0%25" alt="Cat status animation"/>
+
+</div>
+
+---
+
+## the github weather report
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=xAKx&show_icons=true&theme=default&hide_border=true&title_color=E6A23C&icon_color=52B69A&text_color=546E7A" height="165" alt="GitHub stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAKx&layout=compact&theme=default&hide_border=true&title_color=E6A23C&text_color=546E7A" height="165" alt="Most used languages"/>
+
+<br/>
+
+<sub>numbers go up, bugs go sideways.</sub>
+
+</div>
+
+---
+
+## a very hungry little snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xAKx/xAKx/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/xAKx/xAKx/output/github-snake.svg" width="100%" alt="Contribution snake"/>
+</picture>
+
+<sub>he eats contributions. i don't ask questions.</sub>
+
+</div>
+
+---
+
+## completely unnecessary facts
+
+- I can spend longer choosing a font than writing the actual code.
+- "Just one more tweak" is a dangerous sentence.
+- I enjoy figuring out how things work, even when nobody asked.
+- My hobbies occasionally require firmware updates.
+- I believe every mysterious cable deserves to be kept. Just in case.
+
+---
+
+<div align="center">
+
+## a little reminder
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=3000&pause=1300&color=E8A33D&center=true&vCenter=true&width=650&lines=stay+curious;make+something+weird;ask+more+questions;don't+forget+to+have+fun" alt="Closing message"/>
+
+<br/>
+
+thanks for stopping by!
+
+if you learned something, laughed at something, or just liked the cat,  
+then this little corner of the internet did its job.
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE082,50:81D4FA,100:A5D6A7&height=110&section=footer" width="100%" alt="Colorful footer"/>
+
+</div>
