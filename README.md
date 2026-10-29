@@ -99,8 +99,6 @@ Most of the time, I'm just following a question that starts with:
 
 <img src="https://github-readme-stats.vercel.app/api?username=xAKx&show_icons=true&theme=default&hide_border=true&title_color=E6A23C&icon_color=52B69A&text_color=546E7A" height="165" alt="GitHub stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAKx&layout=compact&theme=default&hide_border=true&title_color=E6A23C&text_color=546E7A" height="165" alt="Most used languages"/>
-
 <br/>
 
 <sub>numbers go up, bugs go sideways.</sub>
