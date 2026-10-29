@@ -92,17 +92,6 @@ Most of the time, I'm just following a question that starts with:
 </div>
 
 ---
-
-## the github weather report
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=xAKx&show_icons=true&theme=default&hide_border=true&title_color=E6A23C&icon_color=52B69A&text_color=546E7A" height="165" alt="GitHub stats"/>
-
-<br/>
-
-<sub>numbers go up, bugs go sideways.</sub>
-
 </div>
 
 ---
